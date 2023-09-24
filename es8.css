@@ -1,0 +1,59 @@
+
+*{margin: 0;
+box-sizing: border-box;}
+
+
+.citta{
+     height: 100vh;
+     position: relative;
+
+background-position: center;
+background-size: cover;
+
+}
+#Singapore {
+     background-image:url(singapore.jpeg);
+     /* height: 100vh;
+          position: relative;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover; */
+     
+}
+#mosca {
+    background-image: url(moscva.jpeg);
+     /* height: 100vh;
+          position: relative;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover; */
+     
+}
+
+#londra {
+     background-image: url(london.jpeg);
+      /* height: 100vh;
+           position: relative;
+ background-repeat: no-repeat;
+ background-position: center;
+ background-size: cover; */
+      
+ }
+
+
+
+
+.nome{
+     position: absolute;
+top: 50%;
+left: 50%;
+transform:translate(-50%, -50%)  ;
+color: white;
+font-size: x-large;
+background-color: rgba(0, 0, 0, 0.367);
+text-align: center;
+line-height: 50px;
+width: 10%;
+     height: 50px;
+     border-radius: 10px;
+}

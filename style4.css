@@ -1,0 +1,61 @@
+body{
+     background-image: url(https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg);
+}
+
+
+#contenitore{
+     width: 1000px ;
+     margin:auto;
+}
+
+#title{
+     color: #ffffff;
+}
+
+#notifiche{
+     text-align:center;
+     color: #ffffff;
+}
+#qtunread{
+     color: goldenrod;
+}
+
+
+.oggetto{
+     
+     display: inline-block;
+     width: 30%;
+     Line-height: 20px;
+}
+.contenuto{
+     
+     display: inline-block;
+     width: 30%;
+     Line-height: 20px;
+     color: rgba(0, 0, 0, 0.451);
+}
+
+.lette{
+     background-color: rgb(211, 211, 211);
+     
+}
+
+.nonlette{
+     background-color: #939393;
+}
+
+#finale{
+     color: #ffffff;
+     text-align: center;
+}
+     
+
+img { width: auto; height: 100px; }
+
+footer{
+     
+     text-align:center;
+     color: #ffffff;
+}
+
+

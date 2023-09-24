@@ -1,0 +1,55 @@
+*{
+     display: block;
+     margin: 0;
+}
+body{
+     background-color: rgb(109, 109, 109);
+     
+}
+
+
+.riga{
+     text-align: center;
+     margin-bottom: 15px;
+     margin-top: 20px;
+}
+
+.img{
+display: inline-block;
+position: relative;
+
+}
+
+
+.img:hover .cuore{
+     color: red;
+     
+}
+
+
+.sconto20{
+
+position:absolute;
+top: 5px;
+right:5px;
+background-color: green;
+
+}
+.sconto50{
+
+     position:absolute;
+     top: 5px;
+     right:5px;
+     background-color: red;
+     
+     }
+     
+
+.cuore{
+     position:absolute;
+    bottom: 5px;
+    font-size: x-large;
+     left: 10px;; 
+     color: rgba(0, 0, 0, 0.165);
+     width: 100%;
+}

@@ -1,0 +1,93 @@
+
+*{box-sizing: border-box;
+     margin: 0;
+;}
+
+
+body{
+     text-align: center;
+     background-size: cover;
+    
+     background-image:url("back.jpg")
+     
+ 
+}
+
+#quadrato{
+    margin-top: 2%;
+    display: inline-block;
+     width: 1000px;
+height: 600px;
+background-color:rgba(12, 12, 12, 0.523);
+border-radius: 15px;
+
+}
+
+
+h1{
+     color: rgb(76, 233, 55);
+     font-size:x-large;
+     
+}
+#boxtasti{
+     display: inline-block;
+     background-color: rgb(76, 233, 55);
+    background-position: center;
+    margin: 10px;
+     width: 85%;
+     Line-height: 40px
+     
+}
+
+#logo{ width: auto; height: 80px;
+  }
+
+
+
+h2{display:inline-block}
+
+
+
+.Monopattino{
+     
+     color: white;
+     width: 450px;
+     height: 25%; 
+     
+     
+     
+     }
+
+#batteriagino{
+     position: relative;
+     left: 20%;
+     color: #00000000;
+     background-color: rgb(248, 235, 0);
+    border-radius: 10px;
+    margin: 10px;
+    width: 60%;
+   Line-height: 20px
+     
+}
+#batteriamike{
+     position: relative;
+     left: 20%;
+     color: #00000000;
+     width: 100%;
+     background-color: rgb(29, 248, 0);
+    border-radius: 10px;
+    margin: 10px;
+   Line-height: 20px
+  
+}
+
+#batteriafede{
+     position: relative;
+     left: 20%;
+     color: #00000000;
+     background-color: rgb(246, 35, 35);
+    border-radius: 10px;
+    margin: 10px;
+    width: 30%;
+   Line-height: 20px
+}
